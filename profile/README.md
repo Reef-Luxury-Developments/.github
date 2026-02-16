@@ -4,13 +4,13 @@
 
 We are on a mission to shape the future of luxury living by blending **patented innovation**, **timeless design**, and **thoughtful craftsmanship** to create exceptional residential and community experiences.
 
-
+<br>
 
 ## Our Vision
 
 We envision vibrant communities that stand as **symbols of innovation, comfort, and lifestyle excellence** — where residents can enjoy beautifully crafted homes and thoughtfully integrated spaces that enhance everyday living.
 
-
+<br>
 
 ## What Makes Us Unique
 
@@ -20,7 +20,7 @@ At Reef, we go beyond traditional real estate development by introducing innovat
 - **Climate-Controlled Winter Gardens** — outdoor garden spaces that remain comfortable and usable in all seasons.
 - Designs that combine **luxury, functionality, and long-term value**.
 
-
+<br>
 
 ## What We Build
 
@@ -32,13 +32,13 @@ Reef develops a range of premium properties that suit modern lifestyles, includi
 
 Each project is thoughtfully designed to balance elegant design with practical living needs.
 
-
+<br>
 
 ## 📍 Based In
 
 **Dubai, United Arab Emirates** — a global hub for innovation, luxury living, and forward-thinking real estate.
 
-
+<br>
 
 ## 📞 Get in Touch
 
@@ -47,7 +47,7 @@ Interested in exploring our projects or collaborating? Visit our official websit
 🌐 https://reefdevelopments.ae
 ✉️ Available via official contact channels listed on our site.
 
-
+<br>
 
 ## Why REEF?
 
