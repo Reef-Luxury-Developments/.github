@@ -45,6 +45,7 @@ Each project is thoughtfully designed to balance elegant design with practical l
 Interested in exploring our projects or collaborating? Visit our official website or contact us through our sales and support channels for more information.
 
 🌐 https://reefdevelopments.ae
+
 ✉️ Available via official contact channels listed on our site.
 
 <br>
